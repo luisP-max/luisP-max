@@ -49,7 +49,6 @@ I'm a **Software Developer in training** focused on building practical and effic
 [![LinkedIn](
 linkedin.com/in/luis-piña-meriño-1ab5102a6)](https://linkedin.com/in/tu-perfil)
 [![Email](pinamerinoluis@gmail.com)](mailto:luis.pina@email.com)
-[![GitHub][![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a&color=00d4ff](https://github.com/luisP-max))](https://github.com/LUIS-PINA)
 </div>
 
 ---
