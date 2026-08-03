@@ -42,19 +42,6 @@ I'm a **Software Developer in training** focused on building practical and effic
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUIS-PINA&show_icons=true&theme=tokyonight&bg_color=0a0a1a&title_color=00d4ff&icon_color=00ff88&text_color=ffffff&border_color=00d4ff&border_radius=15&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIS-PINA&layout=compact&theme=tokyonight&bg_color=0a0a1a&title_color=00d4ff&text_color=ffffff&border_color=00d4ff&border_radius=15"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUIS-PINA&theme=tokyonight&background=0a0a1a&border=00d4ff&stroke=00d4ff&ring=00ff88&fire=00d4ff&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" width="90%"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
