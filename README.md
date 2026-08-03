@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2D8E&height=200&section=header&text=LUIS%20PI%C3%91A&fontSize=50&fontColor=fff&desc=Software%20Developer&descColor=00D4FF"/>
+  <img width="100%" src="https://github.com/luisP-max/luisP-max/blob/main/banner.png"/>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&width=500&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+TypeScript"/>
   <br><br>
