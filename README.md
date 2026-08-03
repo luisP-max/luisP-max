@@ -55,14 +55,6 @@ I'm a **Software Developer in training** focused on building practical and effic
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUIS-PINA&theme=react-dark&bg_color=0a0a1a&color=00d4ff&line=00ff88&point=ffffff&area=true&hide_border=false&border_color=00d4ff" width="95%"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
